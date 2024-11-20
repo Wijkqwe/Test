@@ -19,11 +19,14 @@
 * <kbd>)</kbd> 下一句首
 * <kbd>}</kbd> 下一段首
 ***
+# 上移
 
+* <kbd>k</kbd> 
+* <kbd></kbd>
 * <kbd>gg</kbd> 移至文件首行
 * <kbd>G</kbd> 移至文件末行
-
-
+* <kbd></kbd>
+***
 * <kbd>[[</kbd> 移至上一部分
 * <kbd>]]</kbd> 移至下一部分
 * <kbd>[]</kbd> 移至上一部分末
