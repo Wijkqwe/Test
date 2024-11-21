@@ -21,9 +21,12 @@
 ***
 # 上移
 
-* <kbd>k</kbd> 
-* <kbd></kbd>
+* <kbd>k</kbd> 上移一行
+* <kbd>ctrl</kbd>+<kbd>u</kbd> 上移1/2页
+* <kbd>ctrl</kbd>+<kbd>b</kbd> 上移1页
 * <kbd>gg</kbd> 移至文件首行
+***
+
 * <kbd>G</kbd> 移至文件末行
 * <kbd></kbd>
 ***
